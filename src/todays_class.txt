@@ -1,0 +1,9 @@
+--element
+--tick function
+--update element
+--functional comp
+--class comp
+--props
+--elements contains components
+--composing components
+-card components
